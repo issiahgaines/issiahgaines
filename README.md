@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Microsoft Azure</b>
-  - [Creating Virtual Machines](https://github.com/issiahgaines/configure-ad)
+  - [Creating Virtual Machines](https://github.com/issiahgaines/Creating-Virtual-Machines)
 
 
 
